@@ -1,0 +1,103 @@
+img{
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+.main{
+  position: relative;
+  left: 33%;
+  padding: 0px;
+  margin: 0px;
+  width: 612px;
+  height: 612px;
+  border: solid;
+  align-items: center;
+}
+
+.borderWhite{
+  border-color: white;
+}
+
+img.btn{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 650px;
+  left: 49%;
+  border-radius: 50px;
+}
+
+.bottom{
+  margin-top: 20px;
+  width: 100%;
+  height: 100px;
+}
+
+.play{
+  float: left;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin-left: 42y%
+}
+
+.piket{
+  text-align: center;
+  float: left;
+  border: solid;
+  width: 100px;
+  height: 80px;
+}
+
+.rekordi{
+  float: right;
+  text-align: center;
+  border: solid;
+  width: 100px;
+  height: 80px;
+}
+
+.play, .piket, .rekordi{
+  display: block;
+}
+
+.afterWinPiketRekordi{
+  border-color: red;
+}
+
+.red{
+  background-color: red;
+}
+
+.trupi{
+  background-color: white;
+}
+
+.mainanm{
+  background-color: #3333ff;
+}
+
+.a1,.a2,.a3,.a4,.a5,.a6,.a7,.a8,.a9{
+  display: block;
+  width: 200px;
+  height: 200px;
+  float: left;
+  border: solid;
+  border-width: 2px;
+}
+
+.win{
+  position: absolute;
+  top: 40%;
+  left: 46%;
+  color: red;
+  text-align: center;
+  background-color: red;
+  opacity: 90%;
+}
+
+h2{
+  color: white;
+}

@@ -1,0 +1,402 @@
+.a1anm{
+  animation-name: animimi1;
+  animation-duration:  5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes animimi1 {
+  11%{
+    border-color: #FF0000;
+  }
+
+  22%{
+    border-color: #FFFF00;
+  }
+
+  33%{
+    border-color: #00FF00;
+  }
+
+  44%{
+    border-color: #008000;
+  }
+
+  55%{
+    border-color: #0000FF;
+  }
+
+  66%{
+    border-color: #000080;
+  }
+
+  77%{
+    border-color: #008080;
+  }
+
+  88%{
+    border-color: #800080;
+  }
+
+  100%{
+    border-color: #808080;
+  }
+}
+
+.a2anm{
+  animation-name: animimi2;
+  animation-duration:  5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes animimi2 {
+  11%{
+    border-color: #808080;
+  }
+
+  22%{
+    border-color: #FF0000;
+  }
+
+  33%{
+    border-color: #FFFF00;
+  }
+
+  44%{
+    border-color: #00FF00;
+  }
+
+  55%{
+    border-color: #008000;
+  }
+
+  66%{
+    border-color: #0000FF;
+  }
+
+  77%{
+    border-color: #000080;
+  }
+
+  88%{
+    border-color: #008080;
+  }
+
+  100%{
+    border-color: #800080;
+  }
+}
+
+.a3anm{
+  animation-name: animimi3;
+  animation-duration:  5s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes animimi3 {
+  11%{
+    border-color: #800080;
+  }
+
+  22%{
+    border-color: #808080;
+  }
+
+  33%{
+    border-color: #FF0000;
+  }
+
+  44%{
+    border-color: #FFFF00;
+  }
+
+  55%{
+    border-color: #00FF00;
+  }
+
+  66%{
+    border-color: #008000;
+  }
+
+  77%{
+    border-color: #0000FF;
+  }
+
+  88%{
+    border-color: #000080;
+  }
+
+  100%{
+    border-color: #008080;
+  }
+}
+
+.a4anm{
+  animation-name: animimi4;
+  animation-duration:  5s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes animimi4 {
+  11%{
+    border-color: #008080;
+  }
+
+  22%{
+    border-color: #800080;
+  }
+
+  33%{
+    border-color: #808080;
+  }
+
+  44%{
+    border-color: #FF0000;
+  }
+
+  55%{
+    border-color: #FFFF00;
+  }
+
+  66%{
+    border-color: #00FF00;
+  }
+
+  77%{
+    border-color: #008000;
+  }
+
+  88%{
+    border-color: #0000FF;
+  }
+
+  100%{
+    border-color: #000080;
+  }
+}
+
+.a5anm{
+  animation-name: animimi5;
+  animation-duration:  5s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes animimi5 {
+  11%{
+    border-color: #000080;
+  }
+
+  22%{
+    border-color: #008080;
+  }
+
+  33%{
+    border-color: #00FF00;
+  }
+
+  44%{
+    border-color: #800080;
+  }
+
+  55%{
+    border-color: #808080;
+  }
+
+  66%{
+    border-color: #FFFF00;
+  }
+
+  77%{
+    border-color: #00FF00;
+  }
+
+  88%{
+    border-color: #008000;
+  }
+
+  100%{
+    border-color: #0000FF;
+  }
+}
+
+.a6anm{
+  animation-name: animimi6;
+  animation-duration:  5s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes animimi6 {
+  11%{
+    border-color: #0000FF;
+  }
+
+  22%{
+    border-color: #000080;
+  }
+
+  33%{
+    border-color: #008080;
+  }
+
+  44%{
+    border-color: #800080;
+  }
+
+  55%{
+    border-color: #808080;
+  }
+
+  66%{
+    border-color: #FF0000;
+  }
+
+  77%{
+    border-color: #FFFF00;
+  }
+
+  88%{
+    border-color: #800080;
+  }
+
+  100%{
+    border-color: #008000;
+  }
+}
+
+.a7anm{
+  animation-name: animimi7;
+  animation-duration:  5s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes animimi7 {
+  11%{
+    border-color: #008000;
+  }
+
+  22%{
+    border-color: #0000FF;
+  }
+
+  33%{
+    border-color: #000080;
+  }
+
+  44%{
+    border-color: #008080;
+  }
+
+  55%{
+    border-color: #800080;
+  }
+
+  66%{
+    border-color: #808080;
+  }
+
+  77%{
+    border-color: #FF0000;
+  }
+
+  88%{
+    border-color: #FFFF00;
+  }
+
+  100%{
+    border-color: #00FF00;
+  }
+}
+
+.a8anm{
+  animation-name: animimi8;
+  animation-duration:  5s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes animimi8 {
+  11%{
+    border-color: #00FF00;
+  }
+
+  22%{
+    border-color: #008000;
+  }
+
+  33%{
+    border-color: #0000FF;
+  }
+
+  44%{
+    border-color: #000080;
+  }
+
+  55%{
+    border-color: #008080;
+  }
+
+  66%{
+    border-color: #800080;
+  }
+
+  77%{
+    border-color: #808080;
+  }
+
+  88%{
+    border-color: #FF0000;
+  }
+
+  100%{
+    border-color: #FFFF00;
+  }
+}
+
+.a9anm{
+  animation-name: animimi9;
+  animation-duration:  5s;
+  animation-iteration-count: infinite;
+
+}
+
+@keyframes animimi9 {
+  11%{
+    border-color: #FFFF00;
+  }
+
+  22%{
+    border-color: #00FF00;
+  }
+
+  33%{
+    border-color: #008000;
+  }
+
+  44%{
+    border-color: #0000FF;
+  }
+
+  55%{
+    border-color: #000080;
+  }
+
+  66%{
+    border-color: #008080;
+  }
+
+  77%{
+    border-color: #800080;
+  }
+
+  88%{
+    border-color: #808080;
+  }
+
+  100%{
+    border-color: #FF0000;
+  }
+}
