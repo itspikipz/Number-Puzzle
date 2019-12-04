@@ -132,10 +132,10 @@ $(document).ready(function(){
   play();
   $(".btn").click(function(){
     play();
-    levizjet = 0;
   });
 });
 
 $(document).click(function(){
   find();
+  levizjet = 0;
 });
