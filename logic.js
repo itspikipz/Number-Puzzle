@@ -57,7 +57,7 @@ var board=[["1.jpg data-id = '1'", "2.jpg data-id = '2'", "3.jpg data-id = '3'"]
         var tmp = board[coordinateI][coordinateJ];
         board[coordinateI][coordinateJ] = board[endI][endJ];
         board[endI][endJ] = tmp;
-        levizjet++;
+        ++levizjet;
         $(".piket").html("<p>Levizjet</p><p>"+levizjet+"</p>");
       }
     }else if(endJ == coordinateJ){
@@ -65,7 +65,7 @@ var board=[["1.jpg data-id = '1'", "2.jpg data-id = '2'", "3.jpg data-id = '3'"]
         var tmp = board[coordinateI][coordinateJ];
         board[coordinateI][coordinateJ] = board[endI][endJ];
         board[endI][endJ] = tmp;
-        levizjet++;
+        ++levizjet;
         $(".piket").html("<p>Levizjet</p><p>"+levizjet+"</p>");
       }
     }
