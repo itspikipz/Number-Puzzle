@@ -106,7 +106,7 @@ var board=[["1.jpg data-id = '1'", "2.jpg data-id = '2'", "3.jpg data-id = '3'"]
 var levizjet = 0;
 var rekordi = 9999;
 function play(){
-  $(".piket").html("<p>Levizjet</p><p>"+0+"</p>");
+  $(".piket").html("<p>Levizjet</p><p>"+levizjet+"</p>");
   $(".trupi").removeClass("mainanm");
   $(".main").removeClass("borderWhite");
   $(".piket").removeClass("afterWinPiketRekordi");
@@ -132,8 +132,8 @@ function play(){
 $(document).ready(function(){
   play();
   $(".btn").click(function(){
-    play();
     levizjet = 0;
+    play();
   });
 });
 
